@@ -1,0 +1,86 @@
+[
+  {
+    "courseID": "CSE3063",
+    "courseName": "Object-Oriented Software Design",
+    "credit": 6,
+    "prerequisite": "",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE3033",
+    "courseName": "Operating Systems",
+    "credit": 4,
+    "prerequisite": "",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE3055",
+    "courseName": "Database Systems",
+    "credit": 6,
+    "prerequisite": "",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE4074",
+    "courseName": "Computer Networks",
+    "credit": 6,
+    "prerequisite": "",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE4061",
+    "courseName": "Compiler Design",
+    "credit": 6,
+    "prerequisite": "CSE3215",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE3215",
+    "courseName": "Digital Logic Design",
+    "credit": 6,
+    "prerequisite": "CSE2025",
+    "courseYear": 3
+  },
+  {
+    "courseID": "IE3081",
+    "courseName": "Modeling and Simulation",
+    "credit": 5,
+    "prerequisite": "",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE3044",
+    "courseName": "Software Engineering",
+    "credit": 4,
+    "prerequisite": "",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE3264",
+    "courseName": "Authomata Theory",
+    "credit": 3,
+    "prerequisite": "",
+    "courseYear": 3
+  },
+  {
+    "courseID": "CSE3038",
+    "courseName": "Computer Organization",
+    "credit": 3,
+    "prerequisite": "",
+    "courseYear": 4
+  }
+  {
+    "courseID": "CSE3048",
+    "courseName": "Signals and Systems",
+    "credit": 3,
+    "prerequisite": "MATH101",
+    "courseYear": 4
+  }
+  {
+    "courseID": "CSE3048",
+    "courseName": "Signals and Systems",
+    "credit": 3,
+    "prerequisite": "",
+    "courseYear": 4
+  }
+]
