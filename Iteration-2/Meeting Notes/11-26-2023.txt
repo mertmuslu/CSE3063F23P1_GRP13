@@ -2,7 +2,6 @@ Kanban board oluşturuldu.
 Iteration-1 için eksiklikler üzerine konuşuldu.
 Kullanılmayan Lecturer ve Advisor classları için method düşünüldü.
 Transcript Class'ı eklenmeye karar verildi.
-Demo için kod üzerinde çalışıldı.
 Gelecek toplantı için Çarşamba günü üzerinde karar kılındı.
 
 
