@@ -1,0 +1,3 @@
+Eskiden fark ettiğimiz polymorphism eksiğini nasıl halledeceğimiz üzerine konuştuk.
+Person abstract classında olan createEmailAddress methodunu lecturer ve student'ta bölerek kullanmaya karar verdik. 
+2. iteration için çalışıldı.
