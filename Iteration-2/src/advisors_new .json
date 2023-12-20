@@ -1,0 +1,393 @@
+[
+    {
+      "firstName": "Mehmet",
+      "lastName": "Yilmaz",
+      "password": "karakartalmemet",
+      "students": [
+        {
+          "firstName": "Deniz",
+          "lastName": "Yilmaz",
+          "studentID": "150120123",
+          "GPA": 1.8,
+          "semester": 6,
+          "password": "deniz123"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Kaya",
+          "studentID": "150120234",
+          "GPA": 3.1,
+          "semester": 3,
+          "password": "elif234"
+        },
+        {
+          "firstName": "Emre",
+          "lastName": "Tekin",
+          "studentID": "150120345",
+          "GPA": 2.7,
+          "semester": 7,
+          "password": "emre345"
+        },
+        {
+          "firstName": "Cihan",
+          "lastName": "Turkoglu",
+          "studentID": "152776789",
+          "GPA": 2.6,
+          "semester": 3,
+          "password": "cihan789"
+        }
+      ]
+    },
+    {
+      "firstName": "Ayse",
+      "lastName": "Sahin",
+      "password": "ayse123",
+      "students": [
+        {
+          "firstName": "Zeynep",
+          "lastName": "Aydin",
+          "studentID": "150120456",
+          "GPA": 2.4,
+          "semester": 2,
+          "password": "zeynep456"
+        },
+        {
+          "firstName": "Burak",
+          "lastName": "Sahin",
+          "studentID": "150120567",
+          "GPA": 3.6,
+          "semester": 8,
+          "password": "burak567"
+        },
+        {
+          "firstName": "Ceren",
+          "lastName": "Gunes",
+          "studentID": "150120678",
+          "GPA": 2.1,
+          "semester": 8,
+          "password": "ceren678"
+        },
+        {
+          "firstName": "Seyma",
+          "lastName": "Yavuz",
+          "studentID": "152887890",
+          "GPA": 3.4,
+          "semester": 4,
+          "password": "seyma890"
+        }
+      ]
+    },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Demir",
+    "password": "ahmet_demir_pass",
+    "students": [
+      {
+        "firstName": "Oguz",
+        "lastName": "Demir",
+        "studentID": "150120789",
+        "GPA": 3.3,
+        "semester": 1,
+        "password": "oguz789"
+      },
+      {
+        "firstName": "Ayse",
+        "lastName": "Celik",
+        "studentID": "150120890",
+        "GPA": 2.9,
+        "semester": 2,
+        "password": "ayse890"
+      },
+      {
+        "firstName": "Ali",
+        "lastName": "Yildirim",
+        "studentID": "150120901",
+        "GPA": 3.8,
+        "semester": 7,
+        "password": "ali901"
+      },
+      {
+        "firstName": "Merve",
+        "lastName": "Kurt",
+        "studentID": "150120012",
+        "GPA": 3.1,
+        "semester": 3,
+        "password": "merve012"
+      }
+    ]
+  },
+  {
+    "firstName": "Mahmut",
+    "lastName": "Koyun",
+    "password": "koyunmahmut",
+    "students": [
+      {
+        "firstName": "Ali",
+        "lastName": "Yilmaz",
+        "studentID": "150112345",
+        "GPA": 2.8,
+        "semester": 2,
+        "password": "ali345"
+      },
+      {
+        "firstName": "Ayse",
+        "lastName": "Demir",
+        "studentID": "150223456",
+        "GPA": 3.5,
+        "semester": 4,
+        "password": "ayse456"
+      },
+      {
+        "firstName": "Mehmet",
+        "lastName": "Kurt",
+        "studentID": "150334567",
+        "GPA": 2.9,
+        "semester": 3,
+        "password": "mehmet567"
+      },
+      {
+        "firstName": "Deniz",
+        "lastName": "Aydin",
+        "studentID": "150445678",
+        "GPA": 3.2,
+        "semester": 5,
+        "password": "deniz678"
+      }
+    ]
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Kısa",
+    "password": "kısa178",
+    "students": [
+      {
+        "firstName": "Cem",
+        "lastName": "Sahin",
+        "studentID": "150556789",
+        "GPA": 3.9,
+        "semester": 6,
+        "password": "cem789"
+      },
+      {
+        "firstName": "Zeynep",
+        "lastName": "Aksoy",
+        "studentID": "150667890",
+        "GPA": 3.7,
+        "semester": 4,
+        "password": "zeynep890"
+      },
+      {
+        "firstName": "Onur",
+        "lastName": "Yildiz",
+        "studentID": "150778901",
+        "GPA": 2.5,
+        "semester": 3,
+        "password": "onur901"
+      },
+      {
+        "firstName": "Elif",
+        "lastName": "Cetin",
+        "studentID": "150889012",
+        "GPA": 3.0,
+        "semester": 5,
+        "password": "elif012"
+      }
+    ]
+  },
+  {
+    "firstName": "Hasan",
+    "lastName": "Ufak",
+    "password": "ufakhasan",
+    "students": [
+      {
+        "firstName": "Ahmet",
+        "lastName": "Turk",
+        "studentID": "151000123",
+        "GPA": 2.6,
+        "semester": 3,
+        "password": "ahmet123"
+      },
+      {
+        "firstName": "Selin",
+        "lastName": "Can",
+        "studentID": "151111234",
+        "GPA": 3.4,
+        "semester": 4,
+        "password": "selin234"
+      },
+      {
+        "firstName": "Kaan",
+        "lastName": "Ozturk",
+        "studentID": "151222345",
+        "GPA": 2.8,
+        "semester": 3,
+        "password": "kaan345"
+      },
+      {
+        "firstName": "Gizem",
+        "lastName": "Kara",
+        "studentID": "151333456",
+        "GPA": 3.6,
+        "semester": 5,
+        "password": "gizem456"
+      }
+    ]
+  },
+  {
+    "firstName": "Yasin",
+    "lastName": "Dogru",
+    "password": "yasin112",
+    "students": [
+      {
+        "firstName": "Umut",
+        "lastName": "Koc",
+        "studentID": "151444567",
+        "GPA": 2.7,
+        "semester": 3,
+        "password": "umut567"
+      },
+      {
+        "firstName": "Melis",
+        "lastName": "Erdogan",
+        "studentID": "151555678",
+        "GPA": 3.1,
+        "semester": 4,
+        "password": "melis678"
+      },
+      {
+        "firstName": "Emre",
+        "lastName": "Akgun",
+        "studentID": "151666789",
+        "GPA": 2.9,
+        "semester": 3,
+        "password": "emre789"
+      },
+      {
+        "firstName": "Begum",
+        "lastName": "Yalin",
+        "studentID": "151777890",
+        "GPA": 3.3,
+        "semester": 4,
+        "password": "begum890"
+      }
+    ]
+  },
+  {
+    "firstName": "Kemal",
+    "lastName": "Boyaci",
+    "password": "boyacikemal",
+    "students": [
+      {
+        "firstName": "Serkan",
+        "lastName": "Sen",
+        "studentID": "151888901",
+        "GPA": 3.8,
+        "semester": 6,
+        "password": "serkan901"
+      },
+      {
+        "firstName": "Seda",
+        "lastName": "Gunes",
+        "studentID": "151999012",
+        "GPA": 3.5,
+        "semester": 5,
+        "password": "seda012"
+      },
+      {
+        "firstName": "Tolga",
+        "lastName": "Tas",
+        "studentID": "152110123",
+        "GPA": 2.4,
+        "semester": 2,
+        "password": "tolga123"
+      },
+      {
+        "firstName": "Irem",
+        "lastName": "Yilmaz",
+        "studentID": "152221234",
+        "GPA": 3.2,
+        "semester": 5,
+        "password": "irem234"
+      }
+    ]
+  },
+  {
+    "firstName": "Sertap",
+    "lastName": "Uzun",
+    "password": "uzun555",
+    "students": [
+      {
+        "firstName": "Burak",
+        "lastName": "Demirtas",
+        "studentID": "152332345",
+        "GPA": 3.9,
+        "semester": 6,
+        "password": "burak345"
+      },
+      {
+        "firstName": "Ece",
+        "lastName": "Aydos",
+        "studentID": "152443456",
+        "GPA": 3.7,
+        "semester": 4,
+        "password": "ece456"
+      },
+      {
+        "firstName": "Kadir",
+        "lastName": "Gokturk",
+        "studentID": "152554567",
+        "GPA": 2.5,
+        "semester": 3,
+        "password": "kadir567"
+      },
+      {
+        "firstName": "Nisan",
+        "lastName": "Dogan",
+        "studentID": "152665678",
+        "GPA": 3.0,
+        "semester": 5,
+        "password": "nisan678"
+      }
+    ]
+  },
+  {
+    "firstName": "Abdullah",
+    "lastName": "Turk",
+    "password": "turk324",
+    "students": [
+      {
+        "firstName": "Fenasi",
+        "lastName": "Kutlu",
+        "studentID": "152887891",
+        "GPA": 3.4,
+        "semester": 3,
+        "password": "fenasi652"
+      },
+      {
+        "firstName": "Celal",
+        "lastName": "Ortayli",
+        "studentID": "152887892",
+        "GPA": 3.8,
+        "semester": 5,
+        "password": "celal546"
+      },
+      {
+        "firstName": "Ilber",
+        "lastName": "Sengor",
+        "studentID": "152887893",
+        "GPA": 3.9,
+        "semester": 5,
+        "password": "ilber123"
+      },
+      {
+        "firstName": "Kagan",
+        "lastName": "Boyacioglu",
+        "studentID": "152887894",
+        "GPA": 3.1,
+        "semester": 5,
+        "password": "kagan315"
+      }
+    ]
+  }
+  
+]
