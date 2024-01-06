@@ -1,0 +1,1421 @@
+[
+  {
+    "studentID": "150120123",
+    "completedCourses": [
+      {"courseID": "CSE3063"},
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "CSE3063"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3000"},
+      {"courseID": "CSE3215"},
+      {"courseID": "IE3081"},
+      {"courseID": "CAS1001"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH2059"},
+      {"courseID": "MATH2055"}
+    ],
+    "gpa": 1.6
+  },
+  {
+    "studentID": "150120234",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "CSE3063"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CAS3044"}
+
+    ],
+    "failedCourses": [
+      {"courseID": "CSE1242"}
+      ],
+    "gpa": 3.1
+  },
+  {
+    "studentID": "150120345",
+    "completedCourses": [
+      {"courseID": "CSE3063"},
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "CSE4074"},
+      {"courseID": "CSE4061"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "CSE3063"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3000"},
+      {"courseID": "CSE3215"},
+      {"courseID": "IE3081"},
+      {"courseID": "CSE3038"},
+      {"courseID": "CSE3264"},
+      {"courseID": "IE3235"},
+      {"courseID": "CSE4000"},
+      {"courseID": "CSE4219"},
+      {"courseID": "CSE4297"},
+      {"courseID": "ISG121"},
+      {"courseID": "CSE4288"},
+      {"courseID": "COMM2202"},
+      {"courseID": "HR1013"}
+
+    ],
+    "failedCourses": [
+      {"courseID": "CSE3044"},
+      {"courseID": "MATH2055"}
+    ],
+    "gpa": 2.7
+  },
+  {
+    "studentID": "150120456",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"}
+    ],
+    "failedCourses": [
+      {"courseID": "MATH1001"}
+
+    ],
+    "gpa": 2.4
+  },
+  {
+    "studentID": "150120567",
+    "completedCourses": [
+      {"courseID": "CSE3063"},
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "CSE4074"},
+      {"courseID": "CSE4061"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3000"},
+      {"courseID": "CSE3215"},
+      {"courseID": "IE3081"},
+      {"courseID": "CSE3038"},
+      {"courseID": "CSE3044"},
+      {"courseID": "CSE3048"},
+      {"courseID": "CSE3264"},
+      {"courseID": "IE3235"},
+      {"courseID": "CSE4219"},
+      {"courseID": "CSE4297"},
+      {"courseID": "ISG121"},
+      {"courseID": "CSE4288"},
+      {"courseID": "COMM2202"},
+      {"courseID": "HR4001"},
+      {"courseID": "CSE4034"},
+      {"courseID": "CSE4044"}
+
+    ],
+    "failedCourses": [
+      {"courseID": "CSE4000"}
+      ],
+    "gpa": 3.6
+  },
+  {
+    "studentID": "150120678",
+    "completedCourses": [
+      {"courseID": "CSE3063"},
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "CSE4074"},
+      {"courseID": "CSE4061"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3000"},
+      {"courseID": "CSE3215"},
+      {"courseID": "IE3081"},
+      {"courseID": "CSE3038"},
+      {"courseID": "CSE3044"},
+      {"courseID": "CSE3048"},
+      {"courseID": "CSE3264"},
+      {"courseID": "IE3235"},
+      {"courseID": "CSE4000"},
+      {"courseID": "CSE4219"},
+      {"courseID": "CSE4297"},
+      {"courseID": "ISG121"},
+      {"courseID": "CSE4288"},
+      {"courseID": "CSE4298"},
+      {"courseID": "ISG122"},
+      {"courseID": "COMM2202"},
+      {"courseID": "HR4001"},
+      {"courseID": "CSE4061"},
+      {"courseID": "CSE4044"}
+
+    ],
+    "failedCourses": [
+      {"courseID": "CSE4000"}
+
+    ],
+    "gpa": 2.1
+  },
+  {
+    "studentID": "150120789",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "MATH2256"},
+      {"courseID": "TRD121"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CAS1010"}
+    ],
+    "failedCourses": [
+      {"courseID": "ATA122"}
+      ],
+    "gpa": 3.3
+  },
+  {
+    "studentID": "150120890",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"}
+
+    ],
+    "failedCourses": [
+     {"courseID": "TRD121"}
+    ],
+    "gpa": 2.9
+  },
+  {
+    "studentID": "150120901",
+    "completedCourses": [
+      {"courseID": "CSE3063"},
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "CSE4061"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3000"},
+      {"courseID": "CSE3215"},
+      {"courseID": "IE3081"},
+      {"courseID": "CSE3038"},
+      {"courseID": "CSE3044"},
+      {"courseID": "CSE3048"},
+      {"courseID": "CSE3264"},
+      {"courseID": "COMM2202"},
+      {"courseID": "CAS3044"}
+    ],
+    "failedCourses": [
+      {"courseID": "CSE3215"}
+    ],
+    "gpa": 3.8
+  },
+  {
+    "studentID": "150120012",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "LAW2004"}
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH2256"}
+
+    ],
+    "gpa": 3.1
+  },
+
+
+
+{
+    "studentID": "150112345",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"}
+
+    ],
+    "failedCourses": [
+     {"courseID": "PHYS1101"}
+    ],
+    "gpa": 2.8
+    },
+
+
+ {
+    "studentID": "150223456",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CAS1061"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "EE2031"}
+    ],
+    "gpa": 3.5
+  },
+
+{
+    "studentID": "150334567",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CAS3001"}
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH1002"}
+    ],
+    "gpa": 2.9
+  },
+
+
+{
+    "studentID": "150445678",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "MATH2055"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CAS1061"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH2059"}
+    ],
+    "gpa": 3.2
+  },
+
+
+{
+    "studentID": "150556789",
+    "completedCourses": [
+      {"courseID": "CSE3063"},
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3215"},
+      {"courseID": "IE3081"},
+      {"courseID": "CAS3044"}
+    ],
+    "failedCourses": [
+      {"courseID": "CSE3000"}
+    ],
+    "gpa": 3.9
+  },
+
+{
+    "studentID": "150667890",
+    "completedCourses": [
+     {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CAS3044"}
+    ],
+    "failedCourses": [
+      {"courseID": "MATH2055"}
+    ],
+    "gpa": 3.7
+  },
+
+{
+    "studentID": "150778901",
+    "completedCourses": [
+     {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "TRD122"},
+      {"courseID": "CAS1010"}
+    ],
+    "failedCourses": [
+      {"courseID": "PHYS1104"}
+    ],
+    "gpa": 2.5
+  },
+
+
+{
+    "studentID": "150889012",
+    "completedCourses": [
+     {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "CAS3044"}
+
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "STAT2253"},
+      {"courseID": "ECON2004"}
+    ],
+    "gpa": 3.0
+  },
+
+
+{
+    "studentID": "151000123",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "HR4001"}
+
+
+    ],
+    "failedCourses": [
+       {"courseID": "HR4001"}
+    ],
+    "gpa": 2.6
+  },
+
+
+{
+    "studentID": "151111234",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "HR1013"}
+
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "EE2031"}
+    ],
+    "gpa": 3.4
+  },
+
+
+{
+    "studentID": "151222345",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CAS3001"}
+
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH1002"}
+    ],
+    "gpa": 2.8
+  },
+
+
+
+{
+    "studentID": "151333456",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CAS3001"}
+
+
+
+    ],
+    "failedCourses": [
+     {"courseID": "CSE2138"}
+    ],
+    "gpa": 3.6
+  },
+
+
+{
+    "studentID": "151444567",
+    "completedCourses": [
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CAS3001"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "PHYS1102"}
+    ],
+    "gpa": 2.7
+  },
+
+
+{
+    "studentID": "151555678",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CAS1061"}
+
+
+
+
+    ],
+    "failedCourses": [
+       {"courseID": "CSE2023"}
+    ],
+    "gpa": 3.1
+  },
+
+
+{
+    "studentID": "151666789",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "FNCE3003"}
+
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH1002"}
+    ],
+    "gpa": 2.9
+  },
+
+
+{
+    "studentID": "151777890",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2059"},
+      {"courseID": "LAW2004"}
+
+
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH2055"}
+    ],
+    "gpa": 3.3
+  },
+
+
+
+{
+    "studentID": "151888901",
+    "completedCourses": [
+      {"courseID": "CSE3063"},
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3000"},
+      {"courseID": "CSE3215"},
+      {"courseID": "CAS1001"}
+
+
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "IE3081"}
+    ],
+    "gpa": 3.8
+  },
+
+
+{
+    "studentID": "151999012",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CAS1001"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "EE2023"}
+    ],
+    "gpa": 3.5
+  },
+
+
+{
+    "studentID": "152110123",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH1001"}
+    ],
+    "gpa": 2.4
+  },
+
+
+{
+    "studentID": "152221234",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "LAW2004"}
+
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH2059"}
+    ],
+    "gpa": 3.2
+  },
+
+
+{
+    "studentID": "152332345",
+    "completedCourses": [
+
+      {"courseID": "CSE3033"},
+      {"courseID": "CSE3055"},
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CSE3000"},
+      {"courseID": "CSE3215"},
+      {"courseID": "IE3081"},
+      {"courseID": "CAS3044"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "CSE3063"}
+    ],
+    "gpa": 3.9
+  },
+
+
+{
+    "studentID": "152443456",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2059"},
+      {"courseID": "HR4001"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "MATH2055"}
+    ],
+    "gpa": 3.7
+  },
+
+
+{
+    "studentID": "152554567",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "HR1013"}
+
+
+    ],
+    "failedCourses": [
+     {"courseID": "MATH1002"}
+    ],
+    "gpa": 2.5
+  },
+
+
+{
+    "studentID": "152665678",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CAS3001"}
+
+
+
+    ],
+    "failedCourses": [
+     {"courseID": "MATH2256"}
+    ],
+    "gpa": 3.0
+  },
+
+
+{
+    "studentID": "152776789",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CAS1001"}
+
+
+    ],
+    "failedCourses": [
+     {"courseID": "MATH2256"}
+    ],
+    "gpa": 2.6
+  },
+
+
+{
+    "studentID": "152887890",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CAS1010"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "CSE2023"}
+    ],
+    "gpa":3.4
+  },
+
+
+{
+    "studentID": "152887891",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "CAS3044"}
+
+
+    ],
+    "failedCourses": [
+      {"courseID": "TRD122"}
+    ],
+    "gpa": 3.4
+  },
+
+
+{
+    "studentID": "152887892",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "LAW2004"}
+
+    ],
+    "failedCourses": [
+      {"courseID": "ATA122"}
+    ],
+    "gpa": 3.8
+  },
+
+
+{
+    "studentID": "152887893",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2055"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "EE2023"},
+      {"courseID": "STAT2253"},
+      {"courseID": "CAS3044"}
+
+
+    ],
+    "failedCourses": [
+     {"courseID": "ATA122"}
+    ],
+    "gpa": 3.9
+  },
+
+
+
+{
+    "studentID": "152887894",
+    "completedCourses": [
+
+      {"courseID": "ATA121"},
+      {"courseID": "MBG1201"},
+      {"courseID": "CSE1200"},
+      {"courseID": "CSE1241"},
+      {"courseID": "MATH1001"},
+      {"courseID": "PHYS1101"},
+      {"courseID": "PHYS1103"},
+      {"courseID": "TRD121"},
+      {"courseID": "ATA122"},
+      {"courseID": "CSE1242"},
+      {"courseID": "MATH1002"},
+      {"courseID": "MATH2256"},
+      {"courseID": "PHYS1102"},
+      {"courseID": "PHYS1104"},
+      {"courseID": "TRD122"},
+      {"courseID": "CSE2023"},
+      {"courseID": "CSE2225"},
+      {"courseID": "ECON2004"},
+      {"courseID": "EE2031"},
+      {"courseID": "MATH2059"},
+      {"courseID": "CSE2226"},
+      {"courseID": "CSE2138"},
+      {"courseID": "CSE2260"},
+      {"courseID": "STAT2253"},
+      {"courseID": "HR1013"}
+
+    ],
+    "failedCourses": [
+       {"courseID": "EE2023"},
+       {"courseID": "MATH2055"}
+    ],
+    "gpa": 3.1
+  }
+]
+
+
